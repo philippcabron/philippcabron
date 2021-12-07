@@ -1,6 +1,6 @@
-### Hi there, I'm Philipp!
+### <span style="color:#FFC125  ">Hi there, I'm Philipp!</span>
 
-## I'm a Junior Software Developer on his way getting one of the best
+## <span style="color:#4169E1  ">I'm a Junior Software Developer on his way getting one of the best</span>
 - 🏢 I finished my training at Arvato Systems in 2021 and now I'm working there since then.
 - ☕ My specialization is Java development. 
 - 📚 I'm currently learning Flutter from scratch, but also deep diving into Angular and Spring Framework.
@@ -11,12 +11,11 @@
 
 <br />
 
-### Languages, Skills and Tools 
+### <span style="color:#FFC125  ">Languages, Skills and Tools</span>
 
-[<img alignment="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][google]
+<img alignment="left" alt="Visual Studio Code" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/master/visual-studio-code.png?token=AWC7MPLZHP3MDR7Z63PS6FTBV7FU4" />
+<img alignment="left" alt="IntelliJ IDEA" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/master/IntelliJ_IDEA_Icon.svg.png?token=AWC7MPPDC3YJRILHOE3K6ETBV7FP2"/>
 
-´´´diff
-Color in red
-´´´
+<img alignment="left" alt="Intellij" width="26px" style="float:left; padding-right:1em" src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.png"/>
 
 [google]: https://google.com
