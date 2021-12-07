@@ -13,9 +13,32 @@
 
 ### <span style="color:#FFC125  ">Languages, Skills and Tools</span>
 
-<img alignment="left" alt="Visual Studio Code" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/master/visual-studio-code.png?token=AWC7MPLZHP3MDR7Z63PS6FTBV7FU4" />
-<img alignment="left" alt="IntelliJ IDEA" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/master/IntelliJ_IDEA_Icon.svg.png?token=AWC7MPPDC3YJRILHOE3K6ETBV7FP2"/>
+<img alignment="left" alt="Angular" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/3985d1bc616e4160d41136295e9a0c09e7080b30/angularjs.svg"/>
 
-<img alignment="left" alt="Intellij" width="26px" style="float:left; padding-right:1em" src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.png"/>
+<img alignment="left" alt="TypeScript" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/typescript.svg"/>
+
+<img alignment="left" alt="Flutter" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/flutter.svg"/>
+
+<img alignment="left" alt="CSharp" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/csharp.svg"/>
+
+<img alignment="left" alt="Java" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/3985d1bc616e4160d41136295e9a0c09e7080b30/java.svg"/>
+
+<img alignment="left" alt="Spring" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/3985d1bc616e4160d41136295e9a0c09e7080b30/spring.svg"/>
+
+<img alignment="left" alt="Docker" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/docker.svg"/>
+
+<img alignment="left" alt="Kubernetes" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/kubernetes-plain.svg"/>
+
+<img alignment="left" alt="Git" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/git.svg"/>
+
+<img alignment="left" alt="Visual Studio Code" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/master/visual-studio-code.png" />
+
+<img alignment="left" alt="Visual Studio" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/visualstudio.svg"/>
+
+<img alignment="left" alt="IntelliJ IDEA" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/master/IntelliJ_IDEA_Icon.svg.png"/>
+
+<img alignment="left" alt="Unity" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/unity.svg"/>
+
+
 
 [google]: https://google.com
