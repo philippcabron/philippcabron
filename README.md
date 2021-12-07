@@ -1,6 +1,6 @@
-### <span style="color:#FFC125  ">Hi there, I'm Philipp!</span>
+### <span style="color:#FFC125;">Hi there, I'm Philipp!</span>
 
-## <span style="color:#4169E1  ">I'm a Junior Software Developer on his way getting one of the best</span>
+## <span style="color:#4169E1;">I'm a Junior Software Developer on his way getting one of the best</span>
 - 🏢 I finished my training at Arvato Systems in 2021 and now I'm working there since then.
 - ☕ My specialization is Java development. 
 - 📚 I'm currently learning Flutter from scratch, but also deep diving into Angular and Spring Framework.
@@ -11,7 +11,7 @@
 
 <br />
 
-### <span style="color:#FFC125  ">Languages, Skills and Tools</span>
+### <span style="color:#FFC125;">Languages, Skills and Tools</span>
 <span>
 <img alignment="left" alt="Angular" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/3985d1bc616e4160d41136295e9a0c09e7080b30/angularjs.svg"/>
 </span>
