@@ -19,9 +19,6 @@
 <img alignment="left" alt="TypeScript" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/typescript.svg"/>
 </span>
 <span>
-<img alignment="left" alt="Flutter" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/flutter.svg"/>
-</span>
-<span>
 <img alignment="left" alt="CSharp" width="26px" style="float:left; padding-right:1em" src="https://raw.githubusercontent.com/philippcabron/Icons/c302f9de61bd6b30615e353378a23f1adc280d9a/csharp.svg"/>
 </span>
 <span>
