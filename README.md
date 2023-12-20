@@ -1,7 +1,7 @@
 ### <span style="color:#FFC125;">Hi there, I'm Philipp!</span>
 
 ## <span style="color:#4169E1;">I'm a Software Developer on his way getting one of the best</span>
-- 🧑‍💼 I finished my apprenticeship at Arvato Systems in 2021 and now I'm working there since then.
+- 👨‍💻 In IT world since 2018. Currently working as Software Developer at Arvato Systems.
 - ☕ My specialization is Java development. 
 - 🥇 I'm looking for opportunities to learn more about software development. Especially full stack developing.
 - 🥅 2024 Goals: Contribute more on GitHub and deploy my own portfolio website.
